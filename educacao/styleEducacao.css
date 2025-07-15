@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    width: 390px;
+    height: 844px;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
