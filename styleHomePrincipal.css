@@ -44,6 +44,7 @@ body{
     
 }
 p{
+    font-size: 20px;
     text-align: center;
     font-family: "Chewy", system-ui;
 }
@@ -87,7 +88,7 @@ footer p{
 }
 
 .video{
-    width: 330px;
-    height: 190px;
+    width: 360px;
+    height: 200px;
 }
 
